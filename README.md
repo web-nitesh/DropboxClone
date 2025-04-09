@@ -30,4 +30,9 @@ This is a **simplified Dropbox clone** built with:
 - Now navigate to "DropBox_Frontend"  folder first run command "npm install"
 - This will install everything required to run the frontend app
 - Now run command "npm start" the frontend will start running at "http://localhost:3000/"
+- A image guide to upload the file on the frontend
+![image](https://github.com/user-attachments/assets/02112fd3-fe23-428a-a217-4740fc64c3bd)
+
+
+
   
