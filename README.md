@@ -26,7 +26,7 @@ This is a **simplified Dropbox clone** built with:
 - First command to run in the terminal "mvn clean package -DskipTests"
 - Then Run "docker-compose up --build"
 - You can go and check in docker the containers
-- This will start the backend server at  http://localhost:8080
+- This will start the backend server at  [http://localhost:8080](http://localhost:8080/api/files)
 - Now navigate to "DropBox_Frontend"  folder first run command "npm install"
 - This will install everything required to run the frontend app
 - Now run command "npm start" the frontend will start running at "http://localhost:3000/"
