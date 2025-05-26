@@ -1,4 +1,4 @@
-# 📦 Dropbox Clone – Full Stack Project __________
+# 📦 Dropbox Clone – Full Stack Project 
 
 This is a **simplified Dropbox clone** built with:
 
